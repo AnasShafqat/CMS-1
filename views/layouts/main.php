@@ -28,14 +28,14 @@ if (Yii::$app->controller->action->id === 'login') {
         <meta charset="<?= Yii::$app->charset ?>"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
-        <meta name="Keywords" content="edusec,edusec4,rudra softech,open source development in ahmedabad, college management software,college management system,education management software,school management system,school management software">
-		<meta name="Description" content="Software development company for open source technology in Ahmedabad. Provide Enterprise solution and quality services.">
+        <meta name="Keywords" content="dexdevs,dexedu,dexterous developers,customized development in Pakistan, college management software,college management system,education management software,school management system,school management software">
+		<meta name="Description" content="Software development company for customized technology in Pakistan. Provide Enterprise solution and quality services.">
 		<meta property="og:locale" content="en_US" />
-		<meta property="og:title" content="Rudra Softech - Provide Enterprise Solution | Development on open source technology | College Management Software | School Management Software" />
-		<meta property="og:description" content="Core functions like admissions, library management, transport management, students attendance in short entire range of university functions can be well performed by EduSec" />
-		<meta property="og:image" content="http://www.rudrasoftech.com/rudra.png">
+		<meta property="og:title" content="Dexterous Developers - Provide Enterprise Solution | Development on customized web applications | University Management System | College Management Software | School Management Software" />
+		<meta property="og:description" content="Core functions like admissions, library management, transport management, students attendance, fee collection module, sms alert system, in short entire range of university functions can be well performed by DEXDEVS" />
+		<meta property="og:image" content="http://www.dexdevs.com/wp-content/uploads/2017/07/site_icon.jpg">
 
-		<link rel="shortcut icon" href="<?php echo Yii::$app->request->baseUrl; ?>/images/rudrasoftech_favicon.png" type="image/x-icon" />
+		<link rel="shortcut icon" href="http://www.dexdevs.com/wp-content/uploads/2017/07/site_icon.jpg" type="image/x-icon" />
 		<!-- Render this(ar-layout-css) file for supporting Arabic Language -->
 		<?= $this->render('ar-layout-css'); ?>
 

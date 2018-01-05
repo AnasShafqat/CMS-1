@@ -2,9 +2,9 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=localhost;dbname=cms',
+    'dsn' => 'mysql:host=localhost;dbname=edusec',
     'username' => 'root',
-    'password' => 'root',
+    'password' => '123456',
     'charset' => 'utf8',
     'enableSchemaCache' => true,
 ];

@@ -81,7 +81,7 @@ else
 		                        	'changeMonth'=> true,
 		                        	'changeYear'=> true,
 		                        	'autoSize'=>true,
-									'yearRange'=>'1900:'.(date('Y')+1),
+									'yearRange'=>'1900:'.(date('Y')+5),
 								],
 		                    	'options'=>[
 									'class'=>'form-control',

@@ -83,9 +83,9 @@ $directoryAsset = Yii::$app->assetManager->getPublishedUrl('@bower') . '/admin-l
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:title" content="Dexterous Developers - Provide Enterprise Solution | Development on customised web applications | University Managment System | College Management Software | School Management Software" />
 	<meta property="og:description" content="Core functions like admissions, library management, transport management, students attendance, sms notification system, fee management module, in short entire range of university functions can be well performed by EduSec" />
-	<meta property="og:image" content="http://www.rudrasoftech.com/rudra.png">
+	<meta property="og:image" content="http://www.dexdevs.com/wp-content/uploads/2017/07/site_icon.jpg">
 
-	<link rel="shortcut icon" href="<?php echo Yii::$app->request->baseUrl; ?>/images/rudrasoftech_favicon.png" type="image/x-icon" />
+	<link rel="shortcut icon" href="http://www.dexdevs.com/wp-content/uploads/2017/07/site_icon.jpg" type="image/x-icon" />
 		<!-- Render this(ar-layout-css) file for supporting Arabic Language -->
 		<?= $this->render('ar-layout-css'); ?>
 
